@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/qwer/yenilino_ws4/install/yolov8_msgs/include/**",
+        "/home/qwer/yenilino_ws4/install/velodyne_gazebo_plugins/include/**",
+        "/home/qwer/yenilino_ws4/install/lio_sam/include/**",
+        "/home/qwer/linorobot2_ws/install/micro_ros_agent/include/**",
+        "/home/qwer/linorobot2_ws/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

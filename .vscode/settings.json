@@ -1,0 +1,21 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/qwer/yenilino_ws4/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/yolov8_msgs/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/lio_sam/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/qwer/linorobot2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/qwer/yenilino_ws4/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/yolov8_msgs/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/lio_sam/local/lib/python3.10/dist-packages",
+        "/home/qwer/yenilino_ws4/install/linorobot2_gazebo/local/lib/python3.10/dist-packages",
+        "/home/qwer/linorobot2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/qwer/yenilino_ws4/src/velodyne_simulator/velodyne_simulator"
+}
